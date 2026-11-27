@@ -1,6 +1,6 @@
-// Gerado no build. Versão mwz4ew13.
-const CACHE = 'sete-vidas-mwz4ew13'
-const ARQUIVOS = ["./","./assets/nunito-63TK8RbS.ttf","./assets/index-DYCyNgup.css","./assets/index-CRdppx3O.js","./assets/nuvem-CHnCbUen.js","./manifest.webmanifest","./icone-192.png","./icone-512.png","./icone-maskable-512.png","./apple-touch-icon.png"]
+// Gerado no build. Versão mwz6bl8a.
+const CACHE = 'sete-vidas-mwz6bl8a'
+const ARQUIVOS = ["./","./assets/nunito-63TK8RbS.ttf","./assets/index-CtEv54Zf.css","./assets/index-bi-MdmN6.js","./assets/nuvem-C1vPQVQQ.js","./manifest.webmanifest","./icone-192.png","./icone-512.png","./icone-maskable-512.png","./apple-touch-icon.png"]
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(ARQUIVOS)).then(() => self.skipWaiting()))
 })
