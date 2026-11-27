@@ -17,3 +17,14 @@ Versão atual: 6f62a30 (27/11/2026), com desafios em grupo.
 5. Em Desafios em grupo, aceite o convite ou toque em "Entrar com código" e digite o código que te passaram.
 
 Pra atualizar, baixe o arquivo de novo e instale por cima. Os dados ficam.
+
+## iPhone (ou qualquer celular, pelo navegador)
+
+Abra **https://msbenedicto.github.io/sete-vidas-app/** no Safari.
+
+1. Toque em Compartilhar (o quadrado com a seta pra cima).
+2. Toque em "Adicionar à Tela de Início" e depois em "Adicionar".
+3. Abra o Sete Vidas pelo ícone. Ele funciona sem internet.
+4. Pra entrar num desafio: menu (três pontinhos) > Conta, crie a conta com e-mail e senha. Depois, no ícone de pessoas, "Entrar com código".
+
+Na versão web não tem lembrete no celular nem tarefa travada por local, e o login é só por e-mail.
