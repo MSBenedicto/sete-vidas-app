@@ -6,7 +6,7 @@ Este repositório só distribui o app. O código fica em outro lugar.
 
 **[Baixar o app (sete-vidas.apk)](https://github.com/MSBenedicto/sete-vidas-app/raw/main/sete-vidas.apk)**
 
-Versão atual: 6f62a30 (27/11/2026), com desafios em grupo.
+Versão atual: c8067a2 (27/11/2026), com desafios em grupo.
 
 ## Como instalar
 
